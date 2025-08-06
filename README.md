@@ -42,3 +42,4 @@ To use the dataset in this project:
 1. Clone the repository:  
    
    git clone https://github.com/codemy3/Terrorist-Attack-Prediction.git
+
